@@ -70,7 +70,7 @@ main {
     background-image: linear-gradient(
       rgba(74, 14, 112, 0.6),
       rgba(73, 13, 110, 0.6)),
-        url(/images/image-header-desktop.jpg);
+        url(/images/image-header-desktop.png);
     border-radius: 0 8px 8px 0;
     background-repeat: no-repeat;
     background-position: center;
@@ -85,7 +85,7 @@ main {
     background-image: linear-gradient(
       rgba(74, 14, 112, 0.6),
       rgba(73, 13, 110, 0.6)),
-    url(/images/image-header-desktop.jpg);
+    url(/images/image-header-desktop.png);
     border-radius: 8px 8px 0 0;
     background-repeat: no-repeat;
     background-position: center;
