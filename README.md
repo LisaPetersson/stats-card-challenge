@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://lisapetersson.github.io/stats-card-challenge/)
 
 ## My process
 
